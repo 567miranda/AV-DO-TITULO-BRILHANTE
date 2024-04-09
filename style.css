@@ -1,0 +1,32 @@
+.texto{
+
+font-family: Calibri;
+color: rgb(247, 247, 5);
+
+}
+
+#title{
+
+    background-color: rgb(10, 10, 10)
+
+}
+
+#title:hover{
+
+    cursor: pointer;
+    color: rgb(158, 26, 26)
+
+}
+
+body{
+
+    background-color: rgb(128, 126, 126);
+
+}
+
+#botao{
+
+color: blue;
+background-color: brown;
+
+}
